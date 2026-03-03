@@ -13,6 +13,9 @@ The communication flow is simple:
 
 ## Reproduction Steps
 
+Pebble SDK: v4.9.127
+Android Mobile App Version: 1.0.11.15
+
 1. Build and deploy both the Pebble app and Android mobile app
 2. Open the Android mobile app and keep it running in the foreground
 3. Open the Pebble watch app
