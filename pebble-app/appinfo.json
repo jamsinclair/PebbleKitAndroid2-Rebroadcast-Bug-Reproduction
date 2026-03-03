@@ -1,0 +1,37 @@
+{
+  "uuid": "317be3e4-aeeb-4ac2-a19c-8010d0c55a6f",
+  "shortName": "pebblekit-test",
+  "longName": "pebblekit-test",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+    "chalk",
+    "diorite",
+    "emery",
+    "flint",
+    "gabbro"
+  ],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "ping": 0,
+    "pong": 1
+  },
+  "resources": {
+    "media": []
+  },
+  "companionApp": {
+    "android": {
+      "url": "https://jamie.tokyo",
+      "apps": [
+        {
+          "package": "com.github.jamsinclair.pebblekittest"
+        }
+      ]
+    }
+  }
+}
